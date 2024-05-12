@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Stephen!
+I am Stephen! A materials engineer exploring the world of tech
 
 Here are some ideas to get you started:
 
